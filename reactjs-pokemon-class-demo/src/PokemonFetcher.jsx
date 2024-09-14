@@ -74,3 +74,4 @@ export default class PokemonFetcher extends React.Component {
 		);
 	}
 }
+
